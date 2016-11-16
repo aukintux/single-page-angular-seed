@@ -1,4 +1,4 @@
-# Project Title
+# Single Page Angular Seed Project
 
 Seed project for basic HTML project and/or AngularJS application.
 
